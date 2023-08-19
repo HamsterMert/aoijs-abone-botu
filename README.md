@@ -11,7 +11,7 @@ Merhaba Ben HamsterMert. Geliştirmiş Olduğum Basit Bir Abone Sistemli Botu Si
 - Terminal Oluşturun ve O Terminal'e ```npm i aoi.js``` Yazın
 - Botu Sunucunuza Davet Edin. Ve Botunuz Kullanıma Hazır.
   
-  ### Not
+### Not
 
   Hata veya Önerileriniz İçin [Discord](https://discord.gg/mu7PTjWbzC) Sunucuma Sizleri Bekliyorum.
 
