@@ -1,0 +1,16 @@
+{
+  "name": "hamstermert-abone-botu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hamster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.db": "^1.1.1",
+    "aoi.js": "^6.4.0"
+  }
+}
